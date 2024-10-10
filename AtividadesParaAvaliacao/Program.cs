@@ -38,8 +38,8 @@ namespace AtividadesParaAvaliacao
 
                 Console.WriteLine("1 - Exercício 1 da lista");
                 Console.WriteLine("2 - Exercício 2 da lista");
-                Console.WriteLine("3 - Exercício 1 da lista");
-                Console.WriteLine("4 - Exercício 2 da lista");
+                Console.WriteLine("3 - Exercício 3 da lista");
+                Console.WriteLine("4 - Exercício 4 da lista");
 
 
                 int escolha = Convert.ToInt32(Console.ReadLine());
